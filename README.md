@@ -1,4 +1,4 @@
 AsyncServicePerformance
 =======================
 
-Some examples of async services vs sync services
+Some examples of async services vs sync services.
